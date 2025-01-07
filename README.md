@@ -8,16 +8,16 @@ This project will analyse the weather data base on the 'Historic Data - Met Eire
 - File named 'StationDetails.csv' - Were the data was dowldoad from 'Historic Data - Met Eireann - The Irish Meteorologic Service'.
 - File named - 'Cleaned_StationDetails.csv' - Before analyze the data base, I had cleared and normalized the data base.
 - Notebook named project.ipynb - were demonstrate all the analyses that I had realized in the data.
-- README.md - description about this project repository.
+- README.md - description about this repository.
 
 
 ### Get Start
 
 To access this project, you will need:
 
-Python 3.11
-Visual Studio Code
-Jupyter Notebook
+* Python 3.11
+* Visual Studio Code
+* Jupyter Notebook
 
 
 ### Get Help:
@@ -27,6 +27,9 @@ The users can get help writing for me (ianarafer@gmail.com) or open an Issue req
 
 ### References:
 
+- 
+- https://en.wikipedia.org/wiki/Embedding
+- https://research.google/blog/open-sourcing-the-embedding-projector-a-tool-for-visualizing-high-dimensional-data/
 
 
 
