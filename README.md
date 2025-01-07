@@ -9,9 +9,12 @@ This project will analyse the weather data base on the 'Historic Data - Met Eire
 - File named - 'Cleaned_StationDetails.csv' - Before analyze the data base, I had cleared and normalized the data base.
 - Notebook named project.ipynb - were demonstrate all the analyses that I had realized in the data.
 - README.md - description about this repository.
+- wind_resource_map - interative map that you can use in the analyse. This will open when you clone this repository to VSC.
 
 
 ### Get Start
+
+https://github.com/IanaraFer/project_programming_analyt.git
 
 To access this project, you will need:
 
